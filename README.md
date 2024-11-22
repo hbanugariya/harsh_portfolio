@@ -14,8 +14,7 @@ This project analyzes Netflix's extensive catalog to uncover trends in content, 
 - **Power Query**: Data cleaning and preparation.
 
 ## Dashboard Preview  
-- images/
-- https://github.com/hbanugariya/harsh_portfolio/blob/main/Netfilx.png
+- (https://github.com/hbanugariya/harsh_portfolio/blob/main/Netfilx.png)
 
 ## Contact  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/harshbanugariya) or visit my portfolio at [GitHub](https://github.com/hbanugariya).

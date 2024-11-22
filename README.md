@@ -92,5 +92,3 @@ This project demonstrates expertise in Power BI, including data cleaning, modeli
 
 ## Dashboard Preview  
  ![Example Image](https://github.com/hbanugariya/harsh_portfolio/blob/main/Netfilx.png)
-
----
